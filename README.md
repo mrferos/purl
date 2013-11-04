@@ -55,3 +55,7 @@ $url->getFragment()->getPath()->remove('foo');
 ```
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mrferos/purl/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
